@@ -33,19 +33,6 @@ The primary goal of this project is to leverage machine learning algorithms to p
 - `scikitlearn`
 - `svm-classifier`
 
-## Get Started 🚀
-
-To explore the project further, visit the [Releases](https://github.com/Yanne0800/Lung_Cancer_Prediction/releases) section. Download the necessary files and execute them to delve into the world of lung cancer prediction using machine learning models.
-
-## Stay Connected 👨‍💻
-
-Follow along with the latest updates and advancements in the field of lung cancer prediction by visiting the provided link. Dive deep into the world of healthcare AI and data science to make a positive impact on early cancer diagnosis.
-
-## Contribute 🤝
-
-If you are passionate about leveraging machine learning for healthcare purposes, feel free to contribute to this project. Your expertise and insights can significantly enhance the prediction accuracy and help save lives through early detection.
-
-Remember, the key to successful lung cancer prediction lies in the precise analysis of patient data and the effective utilization of machine learning algorithms. Stay focused, stay committed, and together, we can make a real difference in the fight against lung cancer.
 
 Let's predict, prevent, and prevail! 🦾
 
