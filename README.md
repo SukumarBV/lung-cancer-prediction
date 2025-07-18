@@ -46,7 +46,6 @@ Relevant topics covered in this project include:
 - `scikitlearn`
 - `python`
 - `medicalanalysis`
-- `aiinhealthcare`
 
 ## ✅ Conclusion
 
